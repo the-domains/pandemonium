@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pandemonium ]]></title>
         <description><![CDATA[Pandemonium ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pandemonium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 21:53:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 21:59:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pandemonium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is "Pandemonium"]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14e5e874-edd9-432d-b6ee-bb5dd197a17a.jpg">]]></description>
+            <link>https://thegrid.ai/pandemonium/what-is-pandemonium/index.html</link>
+            <guid isPermaLink="false">6301e3d5-d31c-45d1-ae28-2ae7277e5b79</guid>
+            <pubDate>Fri, 08 Jul 2016 21:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Who or What is "Pandemonium"</p>]]></description>
-            <link>undefinedwho-or-what-is-pandemonium/index.html</link>
+            <link>https://thegrid.ai/pandemonium/who-or-what-is-pandemonium/index.html</link>
             <guid isPermaLink="false">7f14e147-3c14-4bb7-a368-90e25ebddba6</guid>
             <pubDate>Fri, 08 Jul 2016 21:53:42 GMT</pubDate>
         </item>

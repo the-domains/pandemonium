@@ -1,0 +1,28 @@
+name: 'Pandemonium '
+favicon: null
+layout_spectrum: 0.5884859443176538
+typography_spectrum: 0.5187571158166975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27942522894591093
+  lightness: 0.06630156980827451
+  saturation: 0.4557498716749251
+  rhythmicContrast: 0.18193330010399222
+purpose: []
